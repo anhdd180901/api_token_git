@@ -29,5 +29,5 @@ Route::post('login', 'Api\LoginController@login');
 //users
 Route::get('users', 'Api\UserController@index');
 
-// //ticket
+// //ticket2
 // Route::get('ticket','Api\TicketController@getTicket');
